@@ -1,0 +1,46 @@
+body {
+	background-color: beige;
+	color=black;
+}
+.esimerkki {
+	color:red;
+	margin-left:2%; 
+}
+.esimerkki-box {
+	background-color:#AFE4DE;
+	border-style:solid;
+	padding:2%;
+	width:70h%;
+}
+.jsharkkatyyli {
+	display: none;
+}
+h1 {
+	color:orange;
+	font-family:monaco;
+}
+
+h2 {
+	color:red;
+	font-family:sans-serif;;
+}
+h3 {
+	color:green;
+	font-family: Helvetica;
+}
+
+table, th, td {
+	border: 5px solid;
+	background:grey;
+	font-family:monaco;
+}
+tr:nth-child(odd){
+	background-color: #f2f2f2;
+}
+th {
+  background-color: #04AA6D;
+  color: white;
+	background-color: #f2f2f2;
+	color: black;
+	}
+
